@@ -9,9 +9,9 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-**Due Sunday, January 31 @ midnight through Github and on Piazza**
+**Due Sunday, January 30, 2022 @ midnight through Github and on Piazza**
 
-Create a data diplay with the NMES data to answer:
+Create a data display (graph or table) with the NMES data to answer:
 
 **Question 1.1: How does the risk of disease compare for smokers and otherwise similar non-smokers?**
 
