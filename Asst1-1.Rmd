@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-**Due Sunday, January 27, 2025 \@ midnight through GitHub and on Piazza**
+**Due Sunday, January 26, 2025 \@ midnight through GitHub and on Piazza**
 
 Create a data display (graph or table) with the NMES data to answer:
 
